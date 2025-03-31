@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Motta, tenho 18 anos sou natural de campo grande - Matogrosso do Sul conclui o ensino médio Na Funlec estou cursando um tecnico no Senac-MS que é voltado apra programação, visndo criar proficionais Fullstack irei terminar o curso em março de 2026, juntamente com isso estou fazendo faculdade de Analise de desenvolvimento de sistemas (ADS) pela Unigran. Muito raramente utilizo redes sociais como instagram, mas asvezes posto algo sobre algum projeto que estou trabalhando, no qual está entitulado de "[mottagui1](https://www.instagram.com/mottagui1/)". 
+Me chamo Guilherme Motta, tenho 18 anos sou natural de campo grande - Mato grosso do Sul conclui o ensino médio Na Funlec estou cursando um tecnico no Senac-MS que é voltado para programação, visando criar profissionais Fullstack irei terminar o curso em março de 2026, E juntamente com isso estou fazendo faculdade de Analise de desenvolvimento de sistemas (ADS) pela Unigran. Muito raramente utilizo redes sociais como instagram, mas as vezes posto algo sobre algum projeto que estou trabalhando, no qual está entitulado de "[mottagui1](https://www.instagram.com/mottagui1/)". 
 
 ---
 
