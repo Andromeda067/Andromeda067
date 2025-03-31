@@ -95,6 +95,8 @@ Me chamo Guilherme Motta, tenho 18 anos sou natural de campo grande - Mato gross
     src="https://github-readme-stats.vercel.app/api?username=Andromeda067&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+---
+
 <img 
       align="left" 
       alt="GitHub Stats" 
