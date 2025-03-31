@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Motta 
+# 🧑🏽‍💻 Guilherme Motta 
 
 **`Desenvolvedor FullStack`**
 
