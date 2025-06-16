@@ -7,7 +7,6 @@ Me chamo Guilherme Motta, tenho 18 anos sou natural de campo grande - Mato gross
 ---
 ### 📋 Portfolio
 Para mais informações acesse 👇:                                                                                                                                                                                                      
-"[Portfolio] (https://andromeda067.github.io/Motta_Dev/)"
 "[Portfolio](https://andromeda067.github.io/Motta_Dev/)".
 
 ---
